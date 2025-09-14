@@ -44,7 +44,7 @@ My journey started in research, where I applied mathematical modeling and data a
 ## 🌐 Connect with Me  
 - **LinkedIn:** [linkedin.com/in/prasad-sanjeev-b463a52a4](https://linkedin.com/in/prasad-sanjeev-b463a52a4)  
 - **Portfolio:** [Your Portfolio Link Here]
-- **GitHub:** [_______]
+- **GitHub:** [https://github.com/prasad939]
 
 ---
 💡 *I’m actively seeking ML Engineer opportunities where I can contribute my expertise in building scalable ML solutions while continuously learning and growing in the field.*
