@@ -1,4 +1,4 @@
- # 👋 Hi, I’m Prasad Hugar  
+ # 👋 Hi, I’m Prasad Pujari  
 
 🚀 **Machine Learning Engineer | Researcher | Fast Learner**  
 
