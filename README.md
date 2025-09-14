@@ -35,7 +35,7 @@ My journey started in research, where I applied mathematical modeling and data a
 ---
 
 ## 📜 Certifications  
-- **Full Stack Data Science Pro Program** – PW Skills (Feb 2024)  
+- **Full Stack Data Science Pro Program** – PW Skills (Feb 2025)  
   Credential ID: 3f1414f3-89df-4ca8-9c71-f637d88b4f10  
   [🔗 Verify Certificate](https://pwskill.com/learn/certificate/3f1414f3-89df-4ca8-9c71-f637d88b4f10)  
 
@@ -43,7 +43,8 @@ My journey started in research, where I applied mathematical modeling and data a
 
 ## 🌐 Connect with Me  
 - **LinkedIn:** [linkedin.com/in/prasad-sanjeev-b463a52a4](https://linkedin.com/in/prasad-sanjeev-b463a52a4)  
-- **Portfolio:** [Your Portfolio Link Here]   
+- **Portfolio:** [Your Portfolio Link Here]
+- **GitHub:** [_______]
 
 ---
 💡 *I’m actively seeking ML Engineer opportunities where I can contribute my expertise in building scalable ML solutions while continuously learning and growing in the field.*
