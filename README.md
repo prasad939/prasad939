@@ -5,8 +5,6 @@
 I am a passionate ML Engineer with a strong academic background in Chemistry (M.Sc. from NIT Silchar) and hands-on experience in Machine Learning, Computer Vision, and Data Science.  
 My journey started in research, where I applied mathematical modeling and data analysis to complex scientific problems, and quickly transitioned into ML engineering. I learn fast, adapt quickly, and I’m deeply committed to applying ML to solve real-world challenges.  
 
----
-
 ## 🛠️ Skills & Expertise  
 - **Programming & Databases:** Python, SQL, MongoDB  
 - **Machine Learning:** Supervised & Unsupervised Learning, Computer Vision, Feature Engineering  
@@ -45,8 +43,7 @@ My journey started in research, where I applied mathematical modeling and data a
 
 ## 🌐 Connect with Me  
 - **LinkedIn:** [linkedin.com/in/prasad-sanjeev-b463a52a4](https://linkedin.com/in/prasad-sanjeev-b463a52a4)  
-- **Portfolio:** [Your Portfolio Link Here]  
-- **Email:** mr.prasadranju@gmail.com  
+- **Portfolio:** [Your Portfolio Link Here]   
 
 ---
 💡 *I’m actively seeking ML Engineer opportunities where I can contribute my expertise in building scalable ML solutions while continuously learning and growing in the field.*
