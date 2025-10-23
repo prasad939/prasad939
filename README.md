@@ -1,51 +1,84 @@
- #  🐐Hi, I’m Prasad Pujari  
+<!-- 👋 Profile README -->
 
-🚀 **Machine Learning Engineer | Researcher | Fast Learner**  
+<h1 align="center">🐐 Hi, I’m <span style="color:#00BFFF;">Prasad Pujari</span> ⚡</h1>
 
-I am a passionate ML Engineer with a strong academic background in Chemistry (M.Sc. from NIT Silchar) and hands-on experience in Machine Learning, Computer Vision, and Data Science.  
-My journey started in research, where I applied mathematical modeling and data analysis to complex scientific problems, and quickly transitioned into ML engineering. I learn fast, adapt quickly, and I’m deeply committed to applying ML to solve real-world challenges.  
+<p align="center">
+  <img src="https://media.giphy.com/media/j5QcmXoFWl4Q0/giphy.gif" width="200" alt="Goku coding animation">
+</p>
 
-## 🛠️ Skills & Expertise  
-- **Programming & Databases:** Python, SQL, MongoDB  
-- **Machine Learning:** Supervised & Unsupervised Learning, Computer Vision, Feature Engineering  
-- **Mathematics:** Statistics, Probability, Linear Algebra  
-- **Tools & Frameworks:** Scikit-Learn, PyTorch, FastAPI, Streamlit, AWS  
+<h3 align="center">🚀 Machine Learning Engineer | Researcher | Fast Learner</h3>
 
 ---
 
-## 📌 Highlight Project  
+### 🧠 About Me  
+Machine Learning Engineer with an **M.Sc. in Applied Chemistry (NIT Silchar)** and a strong analytical foundation in **Mathematics**.  
+I began my journey as a researcher applying data-driven methods to scientific problems and transitioned into **Machine Learning Engineering** to solve real-world challenges.  
+I’m a **fast learner**, an **optimizer by nature**, and love blending science, math, and code to build something meaningful.
+
+---
+
+### 🛠️ Tech Arsenal  
+
+**Languages & Databases:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Machine Learning & AI:**  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+**Tools & Frameworks:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 💬 Highlight Project – *Sentiment Analysis on Amazon Reviews*  
+> **Objective:** Build a text classification model to predict positive or negative sentiments on Amazon Alexa reviews.  
+
+**Tech Stack:**  
+`pandas` · `numpy` · `sklearn` · `matplotlib` · `seaborn` · `SHAP` · `LIME` · `Flask` · `AWS`  
+
+**Result:**  
+Achieved top accuracy using **Decision Tree Classifier** with explainable AI (XAI) visualizations.  
+
+---
 
 ### 🔹 Sensor Anomaly Detection  
 [🔗 GitHub Repository](#)  
-
-- Developed an **end-to-end ML pipeline** with FastAPI and MongoDB.  
-- Implemented **XGBoost with optimized imputation strategy**, achieving **99.6% accuracy**.  
-- Deployed on **AWS** for scalability.  
-- Designed pipelines with **SMOTE & TOMEK links** to resolve data imbalance.  
-- Provided actionable anomaly insights for predictive maintenance.  
+- Built an **end-to-end ML pipeline** with FastAPI + MongoDB  
+- Applied **XGBoost with optimized imputation** achieving **99.6% accuracy**  
+- Integrated **SMOTE + TOMEK links** for data balancing  
+- Deployed on **AWS**, delivering **real-time anomaly insights**  
 
 ---
 
-## 🎓 Research & Academic Background  
-- Conducted **data-driven research** on biodiesel production using statistical models (Regression, PCA, Clustering).  
-- Applied ML techniques (Random Forests, CNNs, XGBoost) for exploratory analysis of spectroscopy datasets (XRD, XPS, NMR).  
-- Experienced in integrating **Response Surface Methodology (RSM)** with modern ML models for optimization.  
-- Currently engaged in **Quantum Machine Learning and Quantum Computing research**, utilizing **Functional Analysis** as a theoretical framework.  
+### 🎓 Research & Academic Background  
+- M.Sc. in **Applied Chemistry**, NIT Silchar  
+- Developed **statistical & ML models** for biodiesel optimization using **RSM, PCA, and Regression**  
+- Applied **CNN, Random Forest, XGBoost** for spectroscopy dataset interpretation  
+- Exploring **Quantum Machine Learning**, integrating **Functional Analysis** principles  
 
 ---
 
-## 📜 Certifications  
-- **Full Stack Data Science Pro Program** – PW Skills (Feb 2025)  
-  Credential ID: 3f1414f3-89df-4ca8-9c71-f637d88b4f10  
-  [🔗 Verify Certificate](https://pwskill.com/learn/certificate/3f1414f3-89df-4ca8-9c71-f637d88b4f10)  
+### 🧾 Certifications  
+- **Full Stack Data Science Pro Program – PW Skills (Feb 2025)**  
+  Credential ID: `3f1414f3-89df-4ca8-9c71-f637d88b4f10`  
+  [🎓 Verify Certificate](https://pwskill.com/learn/certificate/3f1414f3-89df-4ca8-9c71-f637d88b4f10)
 
 ---
 
-## 🌐 Connect with Me  
-- **LinkedIn:** [linkedin.com/in/prasad-sanjeev-b463a52a4](https://linkedin.com/in/prasad-sanjeev-b463a52a4)  
-- **Portfolio:** [Your Portfolio Link Here]
-- **GitHub:** https://github.com/prasad939
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" alt="Thank you GIF">
+</p>
 
----
-💡 *I’m actively seeking ML Engineer opportunities where I can contribute my expertise in building scalable ML solutions while continuously learning and growing in the field.*
+<h3 align="center">✨ Thanks for scrolling by — may your models always converge and your code never overfit! 🧠💻</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prasadpujari&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
