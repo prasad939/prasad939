@@ -2,7 +2,7 @@
 ### Machine Learning Engineer by day, Data Wizard by night ✨  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="Goku coding animation">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" alt="Coding animation chill">
 </p>
 
 ---
@@ -87,16 +87,7 @@ Credential ID: `3f1414f3-89df-4ca8-9c71-f637d88b4f10`
 👯 **Looking to collaborate on:** Projects that make the world go *“whoa!”*  
 ⚡ **Fun fact:** I can debug code and explain chemical reactions simultaneously 🔥  
 
----
-
-## 📊 My GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasad939&show_icons=true&theme=radical" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad939&layout=compact&theme=radical" width="370" />
-</p>
-
----
+ ---
 
 ## 🤝 Let's Connect!  
 
@@ -109,7 +100,7 @@ Credential ID: `3f1414f3-89df-4ca8-9c71-f637d88b4f10`
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4HnKwiJJaJQB04Zq/giphy.gif" width="300" alt="Goku waving bye">
+  <img src="https://media.giphy.com/media/11rWoZNpAKw8w/giphy.gif" width="500" alt="Goku powering up coding animation">
 </p>
 
 <h3 align="center">🎉 Thanks for stopping by! May your gradients always converge and your bugs be minimal 🐛➡️✨</h3>
