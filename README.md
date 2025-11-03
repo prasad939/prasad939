@@ -100,7 +100,7 @@ Credential ID: `3f1414f3-89df-4ca8-9c71-f637d88b4f10`
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500" alt="Goku powering up energy aura">
+  <img src="https://media.giphy.com/media/UWbCKJ4bU6OqQ/giphy.gif" width="500" alt="Goku Ultra Instinct coding vibe">
 </p>
 
 <h3 align="center">🎉 Thanks for stopping by! May your gradients always converge and your bugs be minimal 🐛➡️✨</h3>
