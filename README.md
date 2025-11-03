@@ -77,7 +77,7 @@ Credential ID: `3f1414f3-89df-4ca8-9c71-f637d88b4f10`
 ## 🎮 When I'm Not Training Models  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding gif">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="500" alt="Goku training coding grind">
 </p>
 
 > “I approach coding like Goku approaches training — always pushing beyond limits!” 💪  
@@ -100,7 +100,7 @@ Credential ID: `3f1414f3-89df-4ca8-9c71-f637d88b4f10`
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/11rWoZNpAKw8w/giphy.gif" width="500" alt="Goku powering up coding animation">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500" alt="Goku powering up energy aura">
 </p>
 
 <h3 align="center">🎉 Thanks for stopping by! May your gradients always converge and your bugs be minimal 🐛➡️✨</h3>
